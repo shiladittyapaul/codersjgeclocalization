@@ -1,2 +1,0 @@
-# codersjgeclocalization
-localize view
